@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\lab2f\\2.1\\",
+  "WorkspaceRootPath": "C:\\Users\\ilahb\\Downloads\\lab2f\\2.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C57D5834-D141-4992-91E5-2E3321D09C06}|2.1\\2.1.vcxproj|D:\\lab2f\\2.1\\2.1\\2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C57D5834-D141-4992-91E5-2E3321D09C06}|2.1\\2.1.vcxproj|C:\\Users\\ilahb\\Downloads\\lab2f\\2.1\\2.1\\2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C57D5834-D141-4992-91E5-2E3321D09C06}|2.1\\2.1.vcxproj|solutionrelative:2.1\\2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "2.1.cpp",
-              "DocumentMoniker": "D:\\lab2f\\2.1\\2.1\\2.1.cpp",
+              "DocumentMoniker": "C:\\Users\\ilahb\\Downloads\\lab2f\\2.1\\2.1\\2.1.cpp",
               "RelativeDocumentMoniker": "2.1\\2.1.cpp",
-              "ToolTip": "D:\\lab2f\\2.1\\2.1\\2.1.cpp",
+              "ToolTip": "C:\\Users\\ilahb\\Downloads\\lab2f\\2.1\\2.1\\2.1.cpp",
               "RelativeToolTip": "2.1\\2.1.cpp",
-              "ViewState": "AQIAAJ8AAAAAAAAAAAAAAAYAAAAVAAAA",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-16T14:36:53.636Z",
               "EditorCaption": ""
